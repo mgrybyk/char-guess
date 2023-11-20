@@ -4,9 +4,7 @@ import Guesser from './components/Guesser/Guesser.vue'
 
 <template>
   <main>
-    <div>
-      <Guesser />
-    </div>
+    <Guesser />
   </main>
 </template>
 

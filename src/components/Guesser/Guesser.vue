@@ -70,6 +70,7 @@ const addWord = () => {
     cursor: pointer;
   }
 }
+
 .circle {
   height: 150px;
   width: 150px;
@@ -79,6 +80,7 @@ const addWord = () => {
   padding: 2rem;
   margin: 2rem;
 }
+
 .circle-letter {
   font-size: 3rem;
   font-family: Arial, Helvetica, sans-serif;
