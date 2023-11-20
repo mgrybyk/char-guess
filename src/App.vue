@@ -4,7 +4,7 @@ import Guesser from './components/Guesser/Guesser.vue'
 
 <template>
   <main>
-    <div class="mx-auto max-w-screen-md container">
+    <div>
       <Guesser />
     </div>
   </main>
