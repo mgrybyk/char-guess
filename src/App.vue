@@ -3,7 +3,7 @@ import Guesser from './components/Guesser/Guesser.vue'
 </script>
 
 <template>
-  <main>
+  <main class="m-2 container">
     <Guesser />
   </main>
 </template>
