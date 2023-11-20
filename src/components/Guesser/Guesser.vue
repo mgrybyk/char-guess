@@ -6,7 +6,7 @@ const words = ref<string[]>([])
 const currentWord = ref('')
 const allChars = [
   ['E', 'T', 'J', 'A', 'S', 'H', 'R', 'Q', 'Z'],
-  ['O', 'I', 'V', 'N', 'D', 'K', 'U', 'K', 'X'],
+  ['O', 'I', 'V', 'N', 'D', 'L', 'U', 'K', 'X'],
   ['C', 'W', 'M', 'F', 'Y', 'G', 'P', 'B']
 ]
 const currentStage = ref(allChars)
